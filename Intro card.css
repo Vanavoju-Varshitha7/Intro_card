@@ -1,0 +1,26 @@
+body{
+    margin:20px;
+}
+
+.card{
+    width:500px;
+    display:flex;
+    padding:20px;
+    justify-content: space-around;
+    background-color: lightgreen;
+    text-align: center;
+    margin:auto;
+    margin-top:250px;
+    
+    
+    
+}
+
+
+img{
+    
+    width:150px;
+    
+
+    
+}
